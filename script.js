@@ -1,4 +1,5 @@
 //1. print the number 5 to the console
+console.log(5);
 
 //2. Print your name to the console
 
