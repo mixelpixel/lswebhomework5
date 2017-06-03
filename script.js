@@ -61,7 +61,7 @@ Hint: Use your last three loops and if/then/else statements. You can learn about
 */
 for (var i = 1; i <= 100; i++) {
   if (i % 3 === 0 && 1 % 5 === 0) {
-    console.log.('fizzbuzz')
+    console.log('fizzbuzz')
   } else if (i % 5 === 0) {
     console.log('fizz');
   } else if (i % 3 === 0) {
