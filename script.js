@@ -15,7 +15,10 @@ console.log(14 % 3);
 //8. Print the remainder of 829 / 13 to the console
 console.log(829 % 13);
 //9. Create a for loop that counts from 0 to 130 by 3s
-
+for (var i = 3; 1 <= 130; i++) {
+  console.log(i);
+  i += 3;
+};
 //10. Create a for loop that counts from 3 to 17 by 2s
 
 //11. Create a for loop that counts from 100 to 3 by -1
