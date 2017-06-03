@@ -5,7 +5,7 @@ console.log('Basil Anderson')
 //3. Store your age as a variable called "myAge"
 var myAge = 44
 //4. Print to the console how old you will be in 5 years
-
+console.log(myAge + 5)
 //5. Store your favorite food as a variable called "myFavoriteFood"
 
 //6. Publish your favorite food to `index.html` using `document.write()`
