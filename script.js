@@ -19,7 +19,9 @@ for (var i = 0; i <= 130; i += 3) {
   console.log(i);
 };
 //10. Create a for loop that counts from 3 to 17 by 2s
-
+for (var i = 3; i <= 17; i += 2) {
+  console.log(i);
+};
 //11. Create a for loop that counts from 100 to 3 by -1
 
 //12. Create a for loop that counts from 1 to 100 by 1s
