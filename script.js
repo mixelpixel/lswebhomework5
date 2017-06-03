@@ -1,13 +1,13 @@
 //1. print the number 5 to the console
 console.log(5);
 //2. Print your name to the console
-console.log('Basil Anderson')
+console.log('Basil Anderson');
 //3. Store your age as a variable called "myAge"
-var myAge = 44
+var myAge = 44;
 //4. Print to the console how old you will be in 5 years
-console.log(myAge + 5)
+console.log(myAge + 5);
 //5. Store your favorite food as a variable called "myFavoriteFood"
-
+var myFavoriteFood = 'Korean';
 //6. Publish your favorite food to `index.html` using `document.write()`
 
 //7. Print the remainder of 14 / 3 to the console
