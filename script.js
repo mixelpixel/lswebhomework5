@@ -43,7 +43,11 @@ for (var i = 1; i <= 100; i++) {
   } else console.log(i);
 };
 //15. Create a for loop that counts from 1 to 100, but instead of printing `i` prints `fizzbuzz` if the number is divisible by 15
-
+for (var i = 1; 1 <= 100; i++) {
+  if (i % 15 === 0) {
+    console.log('fizzbuzz');
+  } else console.log(i);
+};
 //EXTRA CREDIT: Fizzbuzz
 
 /*
