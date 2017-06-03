@@ -59,3 +59,12 @@ The "Fizz-Buzz test" is an interview question designed to help filter out the 99
 Hint: Use your last three loops and if/then/else statements. You can learn about those here https://www.w3schools.com/js/js_if_else.asp
 
 */
+for (var i = 1; i <= 100; i++) {
+  if (i % 3 === 0 && 1 % 5 === 0) {
+    console.log.('fizzbuzz')
+  } else if (i % 5 === 0) {
+    console.log('fizz');
+  } else if (i % 3 === 0) {
+    console.log('buzz');
+  } else console.log(i);
+};
