@@ -11,7 +11,7 @@ var myFavoriteFood = 'Korean';
 //6. Publish your favorite food to `index.html` using `document.write()`
 document.write(myFavoriteFood);
 //7. Print the remainder of 14 / 3 to the console
-
+console.log(14 % 3);
 //8. Print the remainder of 829 / 13 to the console
 
 //9. Create a for loop that counts from 0 to 130 by 3s
