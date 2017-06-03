@@ -1,8 +1,7 @@
 //1. print the number 5 to the console
 console.log(5);
-
 //2. Print your name to the console
-
+console.log('Basil Anderson')
 //3. Store your age as a variable called "myAge"
 
 //4. Print to the console how old you will be in 5 years
