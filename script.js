@@ -23,7 +23,9 @@ for (var i = 3; i <= 17; i += 2) {
   console.log(i);
 };
 //11. Create a for loop that counts from 100 to 3 by -1
-
+for (var i = 100; i >= 3; i--) {
+  console.log(i);
+}
 //12. Create a for loop that counts from 1 to 100 by 1s
 
 //13. Create a for loop that counts from 1 to 100, but instead of printing `i` prints `fizz` if the number is divisible by 5
